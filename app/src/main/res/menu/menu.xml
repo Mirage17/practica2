@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mActivity2"
+        android:title="@string/Login" />
+    <item
+        android:id="@+id/mActivity3"
+        android:title="@string/Splash" />
+
+</menu>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Formulario generico #70</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="celular">Celular</string>
+    <string name="password">Contraseña</string>
+    <string name="password2">Repetir contraseña</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="askSex">Por favor indique su sexo</string>
+    <string name="Rugby">Rugby</string>
+    <string name="hobbie">Por favor marque si practica alguno de estos deportes al menos 2 horas a la semana</string>
+    <string name="apnea">Apnea</string>
+    <string name="judo">Judo</string>
+    <string name="ajedrez">Ajedrez</string>
+    <string name="fechaDeNacimiento">Fecha de nacimiento</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado">Resultado</string>
+    <string name="LugarDeNacimiento">Lugar de nacimiento</string>
+    <string name="save">Save</string>
+    <string name="lugar">Lugar de nacimiento</string>
+    <string name="fecha">dd/mm/yyyy</string>
+    <string name="activity2">actividad2</string>
+    <string name="actividad3">actividad3</string>
+    <string name="Login">Login</string>
+    <string name="Splash">Splash</string>
+    <string-array name="Ciudades">
+        <item></item>
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Cundinamarca</item>
+        <item>Calí</item>
+        <item>Barranquilla</item>
+    </string-array>
+</resources>
